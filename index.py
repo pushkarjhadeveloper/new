@@ -54,3 +54,4 @@ class Private:
       
 person = Private('shubham',18)
 print(person)
+second = "second"
